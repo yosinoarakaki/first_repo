@@ -1,0 +1,4 @@
+File is changed.
+File is change by master
+File is change by try-conflict
+Filr is changed by Collaborator
